@@ -1,4 +1,4 @@
-# AudoGrader
+# AutoGrader
 
 ## Assignment 1 is AutograderSkeleton
 
