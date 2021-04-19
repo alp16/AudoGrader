@@ -2,6 +2,6 @@
 
 ## Assignment 1 is AutograderSkeleton
 
-## Assignment 2 is AutograderSkeleton2
+## Assignment 6 is AutograderSkeleton2
 
-## Assignment 3 is AutograderSkeleton3
+## Assignment 7 is AutograderSkeleton3
